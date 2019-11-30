@@ -1,9 +1,8 @@
 
 # Lahman Baseball Dataset Analysis
----
 
-This notebook aims to run analysis on the lahman dataset.
-For table reference the data dictionary is here, and entity relationship diagram is contained within directory as lahman_baseball_ERD.png
+- This notebook aims to run analysis on the lahman dataset.
+- For table reference the data dictionary is here, and entity relationship diagram is contained within directory as `./lahman_baseball_ERD.png`
 ---
 
 ## Project tools
