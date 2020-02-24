@@ -1,3 +1,6 @@
+<p align="center">
+    <img src="baseball.jpg" alt="logo" width="690" height="200"/>
+</p>
 
 # Lahman Baseball Dataset Analysis
 
